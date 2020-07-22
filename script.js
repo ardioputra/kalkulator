@@ -92,7 +92,7 @@ inputDecimal = (dot)=>{
     currentNumber += dot;
 };
 
-const inputOperator = (operators) =>{
+const inputOperator = (operator) =>{
     if(calculationOperator===''){
         prevNumber = currentNumber;
     }

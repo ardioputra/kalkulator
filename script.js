@@ -74,7 +74,7 @@ if(clearBtn){
 const clearAll = () =>{
     prevNumber = '';
     calculationOperator ='';
-    currentNumber='0;'
+    currentNumber='0';
 };
 
 const decimal = document.querySelector('.decimal');
